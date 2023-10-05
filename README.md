@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitagg2008&label=Profile%20views&color=0e75b6&style=flat" alt="ankitagg2008" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankitagg2008" alt="ankitagg2008" /></a> </p>
-
 - 💬 Ask me about **AI, ML, Data Science, Data Analytics, Business Intelligence, Data Warehousing, Cognos, PowerBI, Looker, Dashboards, Databases & Consulting**
 
 - 📫 How to reach me **ankit.agg.2008@gmail.com**
